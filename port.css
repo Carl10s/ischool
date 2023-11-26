@@ -1,6 +1,7 @@
 
     body{
-        background-color: black;
+        background-color: white;
+        color: black;
     }
     .nav{
         margin: 0%;
@@ -10,7 +11,7 @@
         border-width: 20px;
         padding: 10px;
         border-radius: 50px;
-        color: white;
+        
         bottom: 0%;
         position: fixed;
         width: 95%;
@@ -20,19 +21,16 @@
         justify-content: center;
         text-align: center;
         border-bottom: 30px;
-        color: white;
+       
     }
     h2{
-        color: white;
+        
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     .name{
-        color: white;
+        
         display: block;
         padding: 20px;
-    }
-    h4{
-        color: white;
     }
     .main{
         display: flexbox;
